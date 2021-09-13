@@ -1,2 +1,4 @@
 # Gaussian Mixture Model-Hidden Markov Model(GMM-HMM) vs Linear Regression(LR) for Cryptocurrencies Forecasting with new features extraction
 This is a project developed for the Machine Learning course at the University of Verona. The main goal is to forecast the next day’s closing price of a cryptocurrency. The proposed work makes a comparison among two classical machine learning models: Hidden Markov Model and Linear Regression. The better result has been achieved with a particular configuration of HMM. Moreover, another key point of the project is the training with new features which are more informative than raw data. 
+# Dataset
+To use the code with the dataset you have to create a folder called 'content'. Then, you put inside this folder the cryptocurrencies data you want to analyze. Now, you are ready to use the code.
